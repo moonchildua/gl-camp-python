@@ -1,0 +1,8 @@
+# IDE files
+*.idea
+
+# zip files
+*.zip
+
+# psckage
+*/python-package/
